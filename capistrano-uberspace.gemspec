@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ['lib']
 
-  gem.add_dependency 'capistrano', '~> 3.9.0'
+  gem.add_dependency 'capistrano', '~> 3.10.0'
   gem.add_dependency 'capistrano-rails'
   gem.add_dependency 'capistrano-bundler'
   gem.add_dependency 'inifile', '~> 3.0.0'
