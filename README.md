@@ -12,7 +12,7 @@ Add this to your application's Gemfile:
 # Gemfile
 
 group :development do
-  gem 'capistrano', '~> 3.4.0'
+  gem 'capistrano', '~> 3.9.0'
   gem 'capistrano-uberspace', github: 'tessi/capistrano-uberspace'
 end
 ```
